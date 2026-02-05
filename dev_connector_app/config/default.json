@@ -1,0 +1,6 @@
+{
+  "mongoURI":"mongodb+srv://sarvetanmay276_db_user:vAnUQ7XCa3VcSAwL@cluster0.uuepcpg.mongodb.net/?appName=Cluster0",
+  "jwtSecret":"mysecrettoken",
+  "GithubClientID":"Ov23liynq4MKh258m8gE",
+  "GithubSecret":"e9fa11c7524bb68d7ff0158396279157fcc4bf64"
+}

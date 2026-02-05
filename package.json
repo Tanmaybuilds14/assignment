@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "dev_env",
+  "version": "1.0.0",
+  "description": "social network for developres",
+  "keywords": [
+    "ository-url>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tanmaybuilds14/dev_connector.git"
+  },
+  "license": "ISC",
+  "author": "Tanmay",
+  "type": "commonjs",
+  "main": "dev_connector_app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dev_connector_app/server.js",
+    "server": "nodemon dev_connector_app/server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "config": "^4.1.1",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.1",
+    "n8n": "^2.1.4",
+    "npm": "^11.7.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
