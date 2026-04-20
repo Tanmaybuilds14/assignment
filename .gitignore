@@ -1,5 +1,12 @@
-/.vscode
-/c_cpp_properties.json
-/settings.json
-/student
-/tasks.json
+node_modules
+sample_photos
+machine_learning
+__pycache__
+.vscode
+databases
+webdev
+ML_models
+for_study_purpose
+haar_cascades
+config
+node_modules
