@@ -1,7 +1,0 @@
-{"web_accessible_resources": [
-  {
-    "resources": [ "for_study_purpose/index.js", "for_study_purpose/index.css" ],
-    "matches": [ "https://http://127.0.0.1:5500/for_study_purpose/index.html" ]
-  }
-  
-]}
