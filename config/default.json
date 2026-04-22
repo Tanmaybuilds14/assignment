@@ -1,4 +1,0 @@
-{
-  "mongoURI":"mongodb+srv://sarvetanmay276_db_user:vAnUQ7XCa3VcSAwL@cluster0.uuepcpg.mongodb.net/?appName=Cluster0",
-  "jwtSecret":"mysecrettoken"
-}
